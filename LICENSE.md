@@ -1,4 +1,4 @@
-# 
+# Automatic GitHub Desktop themes for Mac OS | Instant GitHub Desktop themes for PC Windows. Featuring bracket-matching and container-logs — optimized for maximum performance on every platform.
 
 
 
